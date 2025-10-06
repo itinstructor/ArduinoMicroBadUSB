@@ -1,6 +1,6 @@
 # Arduino Pro Micro Bad USB
 
-<img src="img/arduino_pro_micro.jpg" alt="Arduino Pro Micro" width="200"/>
+![Arduino Pro Micro](img/arduino_pro_micro.jpg)
 
 ## How to Use an Arduino Pro Micro as a Bad USB
 
